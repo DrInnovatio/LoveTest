@@ -23,7 +23,15 @@
         android:src="@drawable/main_img"
         tools:ignore="ContentDescription,MissingConstraints"
         tools:layout_editor_absoluteX="75dp"
-        tools:layout_editor_absoluteY="204dp" />
+        tools:layout_editor_absoluteY="184dp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="60dp"
+        android:src="@drawable/next"
+        tools:layout_editor_absoluteX="164dp"
+        tools:layout_editor_absoluteY="598dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
